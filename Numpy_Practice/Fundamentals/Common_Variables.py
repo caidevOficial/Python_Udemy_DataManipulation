@@ -20,6 +20,8 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
+import numpy as np
+
 ARRAY = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 ARRAY1 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 ARRAY2 = [11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
