@@ -22,6 +22,29 @@
 <h1 align='center'>Python - Udemy. 👨‍💻</h1></br></br>
 
 <table align='center'>
+  <theader>
+    <tr>
+      <th><center>Temary</center></th>
+    </tr>
+  </theader>
+  <tbody>
+    <tr>
+      <td>
+        <center><a href='./Numpy_Practice/'>Numpy Exercises
+        </a></center>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <center><a href='./Pandas_Practice/'>Pandas Exercises
+        </a></center>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</br></br></br>
+
+<table align='center'>
   <tr align='center'>
     <h2 align='center'>Technologies used. 📌</h2>
     <td>
