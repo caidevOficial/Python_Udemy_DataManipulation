@@ -1,0 +1,10 @@
+{
+    "Schema": {
+        "id": "ID",
+        "name": "NAME",
+        "cosmos": "COSMOS",
+        "armor": "ARMOR",
+        "level": "LEVEL",
+        "power_level": "POWER_LV"
+    }
+}
